@@ -1,7 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.VR.WSA.Input;
+﻿using UnityEngine;
+using UnityEngine.XR.WSA.Input;
 
 public class GazeGestureManager : MonoBehaviour {
 
